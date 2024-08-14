@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Create map on demand</title>
+    <!-- Add the lang parameter to the script URL -->
+    <script src="https://maps.api.2gis.ru/2.0/loader.js?lazy=true&lang=en_US"></script>
+</head>
+
+<body>
+    <input id="create" type="button" value="Display map" />
+    <div id="mapBlock"></div>
+    <script>
+        var createButton = document.getElementById('create');
+
+        createButton.onclick = function () {
+            var container = document.createElement('div'),
+                mapBlock = document.getElementById('mapBlock');
+
+            container.id = 'map';
+            container.style.width = '100%';
+            container.style.height = '400px';
+            mapBlock.appendChild(container);
+
+            DG.then(function () {
+                DG.map('map', {
+                    center: [54.98, 82.89],
+                    zoom: 13
+                });
+            });
+        }
+    </script>
+</body>
+
+</html>

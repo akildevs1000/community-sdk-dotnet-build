@@ -1,0 +1,194 @@
+02:01:19,337 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:01:28,342 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:16,850 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:26,825 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:26,826 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:26,826 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,879 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,879 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,880 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,880 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,882 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:36,883 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:46,838 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:46,838 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:46,838 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:46,890 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:49,347 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:02:56,836 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:02:26,642 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:02:36,678 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:02:46,641 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+17:26:24,652 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+17:26:34,688 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+17:26:44,669 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in C:\Users\SERVER\Downloads\FCardProtocolAPI(4)\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+20:20:27,785 - push record{"UserCode":200001,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":556,"Accesstype":1,"RecordDate":"2024-03-29 16:18:07","RecordType":1,"RecordMsg":"Open the door without verification -- the user number is 0 when pressing the fingerprint, and the user number is the card number when swiping the card","RecordCode":25,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+

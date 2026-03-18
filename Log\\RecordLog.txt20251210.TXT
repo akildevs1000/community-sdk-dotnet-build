@@ -1,0 +1,24 @@
+21:22:29,669 - 上传人员信息异常:
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPerson(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, List`1 personList) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 526
+21:22:34,903 - 批量添加人员上传照片异常：用户编号：64035,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+21:22:40,042 - 上传人员信息异常:
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPerson(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, List`1 personList) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 526
+21:22:45,231 - 批量添加人员上传照片异常：用户编号：64036,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479

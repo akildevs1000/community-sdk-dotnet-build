@@ -1,0 +1,84 @@
+10:15:57,351 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:03,943 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:16,366 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:22,881 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:29,334 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:35,911 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:42,804 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:49,241 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:16:55,693 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:17:04,990 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:17:15,475 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:17:21,991 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:17:36,630 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479
+10:17:43,273 - 批量添加人员上传照片异常：用户编号：70,上传图片内容System.Byte[]
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPersonImage(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, UInt32 userCode, Byte[] image) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 479

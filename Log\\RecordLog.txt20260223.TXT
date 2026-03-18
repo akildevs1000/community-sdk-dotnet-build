@@ -1,0 +1,6 @@
+15:51:32,618 - 上传人员信息异常:
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.FingerprintCommand.UploadPerson(ConnectorAllocator allocator, IFcardCommandParameter commandParameter, PersonAddRangeErrorInfo errorInfo, List`1 personList) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\实现\FingerprintCommand.cs:line 526

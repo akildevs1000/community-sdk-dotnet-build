@@ -1,0 +1,390 @@
+00:02:35,980 - push record{"UserCode":11011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246540,"Accesstype":1,"RecordDate":"2012-01-29 16:58:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:05:46,685 - push record{"UserCode":20081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246541,"Accesstype":1,"RecordDate":"2012-01-29 17:01:19","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:28:58,091 - push record{"UserCode":42021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246542,"Accesstype":1,"RecordDate":"2012-01-29 17:24:29","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:29:48,474 - push record{"UserCode":5204,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246543,"Accesstype":1,"RecordDate":"2012-01-29 17:25:20","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:29:57,413 - push record{"UserCode":39088,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246544,"Accesstype":1,"RecordDate":"2012-01-29 17:25:34","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:36:06,980 - push record{"UserCode":29053,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246545,"Accesstype":1,"RecordDate":"2012-01-29 17:31:40","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:37:57,029 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30129,"Accesstype":1,"RecordDate":"2025-07-10 00:24:38","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+00:40:58,378 - push record{"UserCode":59081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246546,"Accesstype":1,"RecordDate":"2012-01-29 17:36:34","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:50:47,421 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246547,"Accesstype":1,"RecordDate":"2012-01-29 17:46:24","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:54:18,765 - push record{"UserCode":48091,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246548,"Accesstype":1,"RecordDate":"2012-01-29 17:49:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:56:38,110 - push record{"UserCode":53081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246549,"Accesstype":1,"RecordDate":"2012-01-29 17:52:09","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:00:37,687 - push record{"UserCode":11061,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246550,"Accesstype":1,"RecordDate":"2012-01-29 17:56:10","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:02:37,754 - push record{"UserCode":13042,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246551,"Accesstype":1,"RecordDate":"2012-01-29 17:58:10","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:04:47,907 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30130,"Accesstype":1,"RecordDate":"2025-07-10 00:51:23","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+01:06:28,431 - push record{"UserCode":47043,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246552,"Accesstype":1,"RecordDate":"2012-01-29 18:02:06","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:07:49,042 - push record{"UserCode":44053,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246553,"Accesstype":1,"RecordDate":"2012-01-29 18:03:25","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:08:47,935 - push record{"UserCode":48997,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24475,"Accesstype":1,"RecordDate":"2025-07-10 01:04:16","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+01:10:11,995 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246554,"Accesstype":1,"RecordDate":"2012-01-29 18:05:49","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:13:08,060 - push record{"UserCode":47034,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24476,"Accesstype":1,"RecordDate":"2025-07-10 01:08:35","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+01:26:18,434 - push record{"UserCode":12031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246555,"Accesstype":1,"RecordDate":"2012-01-29 18:21:59","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:28:39,248 - push record{"UserCode":14024,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246556,"Accesstype":1,"RecordDate":"2012-01-29 18:24:20","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:33:09,060 - push record{"UserCode":14021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246557,"Accesstype":1,"RecordDate":"2012-01-29 18:28:49","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:37:38,809 - push record{"UserCode":743063,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246558,"Accesstype":1,"RecordDate":"2012-01-29 18:33:11","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:40:09,963 - push record{"UserCode":719041,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246559,"Accesstype":1,"RecordDate":"2012-01-29 18:35:44","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:43:14,105 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:43:24,078 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:43:34,084 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:47:20,904 - push record{"UserCode":1021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246560,"Accesstype":1,"RecordDate":"2012-01-29 18:42:53","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:47:20,906 - push record{"UserCode":50357,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246561,"Accesstype":1,"RecordDate":"2012-01-29 18:42:55","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:00:21,422 - push record{"UserCode":53081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246562,"Accesstype":1,"RecordDate":"2012-01-29 18:55:56","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:03:12,152 - push record{"UserCode":745061,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246563,"Accesstype":1,"RecordDate":"2012-01-29 18:58:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:03:44,784 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:03:54,788 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:04,817 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:14,840 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:14,840 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:24,814 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:34,839 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:44,828 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:54,892 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:05:04,857 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:05:39,822 - push record{"UserCode":26097,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246564,"Accesstype":1,"RecordDate":"2012-01-29 19:01:12","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:08:10,029 - push record{"UserCode":28012,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30131,"Accesstype":1,"RecordDate":"2025-07-10 01:54:47","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+02:13:35,223 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:13:45,199 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:13:55,236 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:16:15,377 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:16:25,376 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:16:35,394 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:17:35,414 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:17:45,415 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:17:55,446 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:17:55,446 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:05,467 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:05,467 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:15,474 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:15,474 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:25,432 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:25,432 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:35,491 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:45,491 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:51,665 - push record{"UserCode":34061,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246565,"Accesstype":1,"RecordDate":"2012-01-29 19:14:24","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:19:55,496 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:20:05,488 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:28:55,697 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:29:05,713 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:33:20,939 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246566,"Accesstype":1,"RecordDate":"2012-01-29 19:28:57","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:45:32,742 - push record{"UserCode":14021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246567,"Accesstype":1,"RecordDate":"2012-01-29 19:41:14","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:06:23,484 - push record{"UserCode":715013,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246568,"Accesstype":1,"RecordDate":"2012-01-29 20:01:52","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:08:15,860 - push record{"UserCode":39082,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246569,"Accesstype":1,"RecordDate":"2012-01-29 20:03:51","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:12:42,157 - push record{"UserCode":48997,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30132,"Accesstype":1,"RecordDate":"2025-07-10 02:59:24","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+03:18:57,494 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+03:19:07,556 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+03:19:17,553 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+03:24:43,374 - push record{"UserCode":51014,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246570,"Accesstype":1,"RecordDate":"2012-01-29 20:20:16","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:26:36,756 - push record{"UserCode":53081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246571,"Accesstype":1,"RecordDate":"2012-01-29 20:22:13","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:32:14,404 - push record{"UserCode":743061,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246572,"Accesstype":1,"RecordDate":"2012-01-29 20:27:46","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:41:45,375 - push record{"UserCode":6,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":246573,"Accesstype":1,"RecordDate":"2012-01-29 20:37:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:42:43,626 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30133,"Accesstype":1,"RecordDate":"2025-07-10 03:29:24","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+03:43:53,699 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":51344,"Accesstype":1,"RecordDate":"2025-07-10 03:24:12","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+03:56:54,109 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30134,"Accesstype":1,"RecordDate":"2025-07-10 03:43:30","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+

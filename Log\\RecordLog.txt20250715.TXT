@@ -1,0 +1,594 @@
+00:06:58,918 - push record{"UserCode":6032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248904,"Accesstype":1,"RecordDate":"2010-01-01 10:37:10","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:10:38,875 - push record{"UserCode":9021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248905,"Accesstype":1,"RecordDate":"2010-01-01 10:40:49","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:16:50,227 - push record{"UserCode":14021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248906,"Accesstype":1,"RecordDate":"2010-01-01 10:46:59","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:17:40,254 - push record{"UserCode":61011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248907,"Accesstype":1,"RecordDate":"2010-01-01 10:47:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:17:40,255 - push record{"UserCode":61011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248908,"Accesstype":1,"RecordDate":"2010-01-01 10:47:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:18:10,057 - push record{"UserCode":14024,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248909,"Accesstype":1,"RecordDate":"2010-01-01 10:48:29","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:19:20,293 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248910,"Accesstype":1,"RecordDate":"2010-01-01 10:49:29","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:26:32,059 - push record{"UserCode":53081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248911,"Accesstype":1,"RecordDate":"2010-01-01 10:56:45","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:28:50,251 - push record{"UserCode":44081,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248912,"Accesstype":1,"RecordDate":"2010-01-01 10:59:02","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:38:49,106 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30714,"Accesstype":1,"RecordDate":"2025-07-15 00:24:50","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+00:39:42,576 - push record{"UserCode":57041,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248913,"Accesstype":1,"RecordDate":"2010-01-01 11:09:58","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:42:29,148 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248914,"Accesstype":1,"RecordDate":"2010-01-01 11:12:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:48:31,582 - push record{"UserCode":26045,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248915,"Accesstype":1,"RecordDate":"2010-01-01 11:18:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+00:53:39,503 - push record{"UserCode":11033,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248916,"Accesstype":1,"RecordDate":"2010-01-01 11:23:53","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:19:40,742 - push record{"UserCode":716091,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248917,"Accesstype":1,"RecordDate":"2010-01-01 11:49:52","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:26:52,273 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248918,"Accesstype":1,"RecordDate":"2010-01-01 11:57:02","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:29:40,861 - push record{"UserCode":1311747,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":1217,"Accesstype":1,"RecordDate":"2025-07-15 01:47:12","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010342"}
+
+01:35:22,486 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248919,"Accesstype":1,"RecordDate":"2010-01-01 12:05:29","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:40:12,747 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248920,"Accesstype":1,"RecordDate":"2010-01-01 12:10:25","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:42:46,362 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:42:59,038 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:43:06,396 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+01:46:25,083 - push record{"UserCode":13032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248921,"Accesstype":1,"RecordDate":"2010-01-01 12:16:39","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:49:51,930 - push record{"UserCode":13031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248922,"Accesstype":1,"RecordDate":"2010-01-01 12:20:05","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+01:50:31,631 - push record{"UserCode":28012,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30715,"Accesstype":1,"RecordDate":"2025-07-15 01:36:37","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+02:04:30,032 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:40,041 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:47,323 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:04:57,339 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:05:07,339 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:05:07,339 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:05:20,034 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:13:22,589 - push record{"UserCode":65011,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52012,"Accesstype":1,"RecordDate":"2025-07-15 01:53:11","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+02:14:17,618 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:14:27,638 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:16:52,669 - push record{"UserCode":6,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30716,"Accesstype":1,"RecordDate":"2025-07-15 02:02:52","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+02:17:00,539 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:17:10,543 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:17,776 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:27,779 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:37,830 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:40,535 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:47,834 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:18:50,540 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:19:00,543 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:19:10,529 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:19:18,531 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:20:27,869 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:20:40,533 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:20:47,873 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:27:23,048 - push record{"UserCode":39082,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248923,"Accesstype":1,"RecordDate":"2010-01-01 12:57:43","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:29:31,029 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:29:41,049 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:29:48,192 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+02:37:33,379 - push record{"UserCode":1311747,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24820,"Accesstype":1,"RecordDate":"2025-07-15 02:32:48","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+02:47:15,395 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248924,"Accesstype":1,"RecordDate":"2010-01-01 13:17:27","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+02:57:34,044 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248925,"Accesstype":1,"RecordDate":"2010-01-01 13:27:45","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:01:05,578 - push record{"UserCode":14021,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248926,"Accesstype":1,"RecordDate":"2010-01-01 13:31:17","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:12:44,456 - push record{"UserCode":47034,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24821,"Accesstype":1,"RecordDate":"2025-07-15 03:07:57","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+03:19:39,792 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+03:19:49,800 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+03:20:34,797 - push record{"UserCode":40051,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52013,"Accesstype":1,"RecordDate":"2025-07-15 03:00:21","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+03:26:05,089 - push record{"UserCode":1311747,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52014,"Accesstype":1,"RecordDate":"2025-07-15 03:05:45","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+03:29:57,822 - push record{"UserCode":13032,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248927,"Accesstype":1,"RecordDate":"2010-01-01 14:00:12","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:36:37,618 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248928,"Accesstype":1,"RecordDate":"2010-01-01 14:06:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+03:38:47,593 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248929,"Accesstype":1,"RecordDate":"2010-01-01 14:09:02","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+04:06:07,601 - push record{"UserCode":41031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248930,"Accesstype":1,"RecordDate":"2010-01-01 14:36:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+04:27:08,031 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248931,"Accesstype":1,"RecordDate":"2010-01-01 14:57:20","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+04:37:37,635 - push record{"UserCode":1042,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30717,"Accesstype":1,"RecordDate":"2025-07-15 04:23:39","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+04:55:39,434 - push record{"UserCode":6021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248932,"Accesstype":1,"RecordDate":"2010-01-01 15:25:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:06:39,149 - push record{"UserCode":20091,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248933,"Accesstype":1,"RecordDate":"2010-01-01 15:36:53","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:06:39,151 - push record{"UserCode":20091,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248934,"Accesstype":1,"RecordDate":"2010-01-01 15:36:56","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:14:00,349 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248935,"Accesstype":1,"RecordDate":"2010-01-01 15:44:16","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:16:48,639 - push record{"UserCode":123456,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30718,"Accesstype":1,"RecordDate":"2025-07-15 05:02:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+05:22:30,639 - push record{"UserCode":50357,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248936,"Accesstype":1,"RecordDate":"2010-01-01 15:52:42","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:29:00,851 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248937,"Accesstype":1,"RecordDate":"2010-01-01 15:59:12","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:40:39,326 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248938,"Accesstype":1,"RecordDate":"2010-01-01 16:10:50","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:46:39,534 - push record{"UserCode":47034,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24822,"Accesstype":1,"RecordDate":"2025-07-15 05:41:50","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+05:47:39,549 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24823,"Accesstype":1,"RecordDate":"2025-07-15 05:42:53","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+05:48:12,960 - push record{"UserCode":1055,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248939,"Accesstype":1,"RecordDate":"2010-01-01 16:18:28","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+05:49:49,621 - push record{"UserCode":1055,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24824,"Accesstype":1,"RecordDate":"2025-07-15 05:44:56","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+05:50:39,660 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":157,"Accesstype":1,"RecordDate":"2025-07-15 05:46:00","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010288"}
+
+05:51:19,708 - push record{"UserCode":1055,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24825,"Accesstype":1,"RecordDate":"2025-07-15 05:46:31","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+05:51:49,699 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":25219,"Accesstype":2,"RecordDate":"2025-07-15 04:32:28","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010382"}
+
+05:54:19,808 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":158,"Accesstype":1,"RecordDate":"2025-07-15 05:49:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010288"}
+
+05:57:59,965 - push record{"UserCode":59056,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45579,"Accesstype":1,"RecordDate":"2025-07-15 05:28:52","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+05:58:49,992 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45580,"Accesstype":1,"RecordDate":"2025-07-15 05:29:39","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+06:00:40,045 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":13658,"Accesstype":1,"RecordDate":"2025-07-15 05:41:53","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010239"}
+
+06:05:20,228 - push record{"UserCode":753041,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45581,"Accesstype":1,"RecordDate":"2025-07-15 05:36:10","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+06:08:20,918 - push record{"UserCode":20091,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248940,"Accesstype":1,"RecordDate":"2010-01-01 16:38:32","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:14:10,622 - push record{"UserCode":1055,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":13659,"Accesstype":1,"RecordDate":"2025-07-15 05:55:18","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010239"}
+
+06:14:20,625 - push record{"UserCode":719021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17961,"Accesstype":1,"RecordDate":"2025-07-15 05:56:02","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+06:19:10,786 - push record{"UserCode":9093,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248941,"Accesstype":1,"RecordDate":"2010-01-01 16:49:26","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:20:30,970 - push record{"UserCode":744091,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":25220,"Accesstype":2,"RecordDate":"2025-07-15 05:01:15","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010382"}
+
+06:24:10,944 - push record{"UserCode":26061,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":13660,"Accesstype":1,"RecordDate":"2025-07-15 06:05:21","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010239"}
+
+06:26:11,000 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":25221,"Accesstype":2,"RecordDate":"2025-07-15 05:06:51","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010382"}
+
+06:32:24,512 - push record{"UserCode":33035,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248942,"Accesstype":1,"RecordDate":"2010-01-01 17:02:40","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:36:41,336 - push record{"UserCode":33031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45582,"Accesstype":1,"RecordDate":"2025-07-15 06:07:27","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+06:41:43,132 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248943,"Accesstype":1,"RecordDate":"2010-01-01 17:11:55","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:46:11,841 - push record{"UserCode":46083,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248944,"Accesstype":1,"RecordDate":"2010-01-01 17:16:25","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:47:01,793 - push record{"UserCode":1311747,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":1187,"Accesstype":1,"RecordDate":"2025-07-15 06:28:53","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010294"}
+
+06:47:32,080 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248945,"Accesstype":1,"RecordDate":"2010-01-01 17:17:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:48:01,793 - push record{"UserCode":47052,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248946,"Accesstype":1,"RecordDate":"2010-01-01 17:18:13","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:49:41,896 - push record{"UserCode":711021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":25222,"Accesstype":2,"RecordDate":"2025-07-15 05:30:23","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010382"}
+
+06:51:53,579 - push record{"UserCode":27083,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248947,"Accesstype":1,"RecordDate":"2010-01-01 17:22:06","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:52:43,330 - push record{"UserCode":71018,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248948,"Accesstype":1,"RecordDate":"2010-01-01 17:22:55","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:52:52,036 - push record{"UserCode":742042,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45583,"Accesstype":1,"RecordDate":"2025-07-15 06:23:42","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+06:54:02,287 - push record{"UserCode":13032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52015,"Accesstype":1,"RecordDate":"2025-07-15 06:33:46","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+06:54:34,185 - push record{"UserCode":9093,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248949,"Accesstype":1,"RecordDate":"2010-01-01 17:24:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:55:32,121 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24826,"Accesstype":1,"RecordDate":"2025-07-15 06:50:37","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+06:56:05,565 - push record{"UserCode":743031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248950,"Accesstype":1,"RecordDate":"2010-01-01 17:26:19","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+06:58:17,313 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:58:30,038 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:58:38,041 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:58:47,310 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:58:57,313 - Read Record Job
+
+System.Exception: CommandStatus_Timeout
+   at DoNetDrive.Core.Connector.AbstractConnector.RunCommandAsync(INCommandRuntime cd)
+   at DoNetDrive.Core.ConnectorAllocator.AddCommandAsync(INCommand cmd)
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.GetDatabaseDetail() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 41
+   at FCardProtocolAPI.Command.Jobs.FingerprintDatabaseDetail.ReadRecord() in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\FingerprintDatabaseDetail.cs:line 189
+   at FCardProtocolAPI.Command.Jobs.ReadRecordJob.ReadRecord(MyConnectorDetail detail) in D:\SDK\AlarmCode-08-08-2024\FCardProtocolAPI.Command\Jobs\ReadRecordJob.cs:line 81
+06:59:22,974 - push record{"UserCode":47052,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248951,"Accesstype":1,"RecordDate":"2012-01-29 12:30:06","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:00:04,081 - push record{"UserCode":41011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248952,"Accesstype":1,"RecordDate":"2012-01-29 12:30:49","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:00:33,871 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248953,"Accesstype":1,"RecordDate":"2012-01-29 12:31:15","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:02:42,436 - push record{"UserCode":13041,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45584,"Accesstype":1,"RecordDate":"2025-07-15 06:33:31","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+07:04:32,655 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248954,"Accesstype":1,"RecordDate":"2012-01-29 12:35:19","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:04:53,152 - push record{"UserCode":23011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248955,"Accesstype":1,"RecordDate":"2012-01-29 12:35:35","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:12:12,887 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52016,"Accesstype":1,"RecordDate":"2025-07-15 06:51:59","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+07:13:23,758 - push record{"UserCode":726082,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248956,"Accesstype":1,"RecordDate":"2012-01-29 12:44:06","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:17:04,536 - push record{"UserCode":45052,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248957,"Accesstype":1,"RecordDate":"2012-01-29 12:47:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:17:43,836 - push record{"UserCode":45052,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248958,"Accesstype":1,"RecordDate":"2012-01-29 12:48:31","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:19:55,160 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248959,"Accesstype":1,"RecordDate":"2012-01-29 12:50:42","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:21:23,938 - push record{"UserCode":19011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248960,"Accesstype":1,"RecordDate":"2012-01-29 12:52:09","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:25:13,273 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248961,"Accesstype":1,"RecordDate":"2012-01-29 12:56:05","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:25:43,335 - push record{"UserCode":50022,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52017,"Accesstype":1,"RecordDate":"2025-07-15 07:05:28","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+07:25:54,497 - push record{"UserCode":19014,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248962,"Accesstype":1,"RecordDate":"2012-01-29 12:56:39","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:27:13,470 - push record{"UserCode":28012,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30719,"Accesstype":1,"RecordDate":"2025-07-15 07:13:18","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+07:27:33,370 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45585,"Accesstype":1,"RecordDate":"2025-07-15 06:58:23","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+07:31:34,859 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248963,"Accesstype":1,"RecordDate":"2012-01-29 13:02:20","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:34:33,578 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52018,"Accesstype":1,"RecordDate":"2025-07-15 07:14:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+07:35:53,845 - push record{"UserCode":7023,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248964,"Accesstype":1,"RecordDate":"2012-01-29 13:06:39","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:43:33,910 - push record{"UserCode":50022,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45586,"Accesstype":1,"RecordDate":"2025-07-15 07:14:20","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+07:44:55,100 - push record{"UserCode":44031,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248965,"Accesstype":1,"RecordDate":"2012-01-29 13:15:44","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:46:34,117 - push record{"UserCode":19014,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248966,"Accesstype":1,"RecordDate":"2012-01-29 13:17:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:47:34,010 - push record{"UserCode":123456,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30720,"Accesstype":1,"RecordDate":"2025-07-15 07:33:36","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+07:48:16,185 - push record{"UserCode":753043,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248967,"Accesstype":1,"RecordDate":"2012-01-29 13:19:04","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:49:15,728 - push record{"UserCode":752013,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248968,"Accesstype":1,"RecordDate":"2012-01-29 13:20:03","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:49:44,059 - push record{"UserCode":1032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24827,"Accesstype":1,"RecordDate":"2025-07-15 07:44:55","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+07:51:35,576 - push record{"UserCode":723032,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248969,"Accesstype":1,"RecordDate":"2012-01-29 13:22:16","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:51:54,293 - push record{"UserCode":1020,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52019,"Accesstype":1,"RecordDate":"2025-07-15 07:31:35","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+07:55:25,230 - push record{"UserCode":50031,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248970,"Accesstype":1,"RecordDate":"2012-01-29 13:26:17","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:55:34,230 - push record{"UserCode":50031,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248971,"Accesstype":1,"RecordDate":"2012-01-29 13:26:20","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:58:04,315 - push record{"UserCode":752015,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248972,"Accesstype":1,"RecordDate":"2012-01-29 13:28:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:58:45,269 - push record{"UserCode":16054,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248973,"Accesstype":1,"RecordDate":"2012-01-29 13:29:29","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:59:05,738 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248974,"Accesstype":1,"RecordDate":"2012-01-29 13:29:48","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:59:35,785 - push record{"UserCode":1038,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248975,"Accesstype":1,"RecordDate":"2012-01-29 13:30:21","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+07:59:44,425 - push record{"UserCode":43013,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52020,"Accesstype":1,"RecordDate":"2025-07-15 07:39:25","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:00:04,553 - push record{"UserCode":40021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52021,"Accesstype":1,"RecordDate":"2025-07-15 07:39:46","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:00:44,390 - push record{"UserCode":48029,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17962,"Accesstype":1,"RecordDate":"2025-07-15 07:42:23","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:00:44,392 - push record{"UserCode":46549,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24828,"Accesstype":1,"RecordDate":"2025-07-15 07:55:57","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+08:00:54,393 - push record{"UserCode":1024,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52022,"Accesstype":1,"RecordDate":"2025-07-15 07:40:37","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:01:04,396 - push record{"UserCode":3410403,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52023,"Accesstype":1,"RecordDate":"2025-07-15 07:40:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:01:04,397 - push record{"UserCode":145335,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52024,"Accesstype":1,"RecordDate":"2025-07-15 07:40:50","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:01:04,398 - push record{"UserCode":1029,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52025,"Accesstype":1,"RecordDate":"2025-07-15 07:40:52","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:01:34,413 - push record{"UserCode":1030,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17963,"Accesstype":1,"RecordDate":"2025-07-15 07:43:13","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:01:44,414 - push record{"UserCode":104,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52026,"Accesstype":1,"RecordDate":"2025-07-15 07:41:27","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:02:26,052 - push record{"UserCode":1001,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248976,"Accesstype":1,"RecordDate":"2012-01-29 13:33:08","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:02:54,655 - push record{"UserCode":1005,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52027,"Accesstype":1,"RecordDate":"2025-07-15 07:42:39","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:03:24,896 - push record{"UserCode":19014,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248977,"Accesstype":1,"RecordDate":"2012-01-29 13:34:07","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:05:06,681 - push record{"UserCode":43011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248978,"Accesstype":1,"RecordDate":"2012-01-29 13:35:51","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:05:06,683 - push record{"UserCode":43011,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248979,"Accesstype":1,"RecordDate":"2012-01-29 13:35:56","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:05:37,021 - push record{"UserCode":1012,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248980,"Accesstype":1,"RecordDate":"2012-01-29 13:36:24","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:07:14,684 - push record{"UserCode":43570,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24829,"Accesstype":1,"RecordDate":"2025-07-15 08:02:21","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+08:07:44,625 - push record{"UserCode":1055,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45587,"Accesstype":1,"RecordDate":"2025-07-15 07:38:31","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+08:14:08,241 - push record{"UserCode":72052,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248981,"Accesstype":1,"RecordDate":"2012-01-29 13:44:55","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:14:14,831 - push record{"UserCode":48029,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30721,"Accesstype":1,"RecordDate":"2025-07-15 08:00:18","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+08:14:54,853 - push record{"UserCode":19023,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17964,"Accesstype":1,"RecordDate":"2025-07-15 07:56:35","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:14:54,855 - push record{"UserCode":19023,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17965,"Accesstype":1,"RecordDate":"2025-07-15 07:56:37","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:15:14,873 - push record{"UserCode":45,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30722,"Accesstype":1,"RecordDate":"2025-07-15 08:01:13","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
+08:15:26,505 - push record{"UserCode":33034,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248982,"Accesstype":1,"RecordDate":"2012-01-29 13:46:17","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:15:34,895 - push record{"UserCode":43570,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24830,"Accesstype":1,"RecordDate":"2025-07-15 08:10:43","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+08:16:24,905 - push record{"UserCode":45,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17966,"Accesstype":1,"RecordDate":"2025-07-15 07:58:01","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:16:24,907 - push record{"UserCode":45,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":17967,"Accesstype":1,"RecordDate":"2025-07-15 07:58:03","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010278"}
+
+08:18:15,079 - push record{"UserCode":40021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52028,"Accesstype":1,"RecordDate":"2025-07-15 07:58:02","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:18:48,459 - push record{"UserCode":45390,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248983,"Accesstype":1,"RecordDate":"2012-01-29 13:49:34","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:18:55,047 - push record{"UserCode":123152,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":52029,"Accesstype":1,"RecordDate":"2025-07-15 07:58:38","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010298"}
+
+08:19:55,039 - push record{"UserCode":45390,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45588,"Accesstype":1,"RecordDate":"2025-07-15 07:50:41","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+08:19:55,042 - push record{"UserCode":1011,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":24831,"Accesstype":1,"RecordDate":"2025-07-15 08:15:07","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010249"}
+
+08:21:55,090 - push record{"UserCode":45390,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":45589,"Accesstype":1,"RecordDate":"2025-07-15 07:52:47","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010297"}
+
+08:21:55,965 - push record{"UserCode":1012,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248984,"Accesstype":1,"RecordDate":"2012-01-29 13:52:37","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:26:45,847 - push record{"UserCode":40021,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248985,"Accesstype":1,"RecordDate":"2012-01-29 13:57:28","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:27:26,625 - push record{"UserCode":10092,"Photo":0,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248986,"Accesstype":1,"RecordDate":"2012-01-29 13:58:08","RecordType":1,"RecordMsg":"Swiping card verification","RecordCode":1,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:28:19,306 - push record{"UserCode":33034,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":248987,"Accesstype":1,"RecordDate":"2012-01-29 13:59:06","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010301"}
+
+08:28:25,412 - push record{"UserCode":104,"Photo":1,"RecordImage":null,"BodyTemperature":0.0,"RecordNumber":30723,"Accesstype":1,"RecordDate":"2025-07-15 08:14:29","RecordType":1,"RecordMsg":"Face verification","RecordCode":3,"CardData":null,"Door":1,"SN":"OX-8662022010283"}
+
